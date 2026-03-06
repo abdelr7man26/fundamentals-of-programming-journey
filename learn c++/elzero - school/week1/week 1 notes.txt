@@ -1,0 +1,44 @@
+preprocessor direactive
+header file 
+create translation unit
+add the translate to the obj file 
+linker
+     *********************************
+syntax
+curly brackets------> {}
+cemi colon ----> ;
+colon ----> :
+double coloon ----> ::
+cout ----> character output 
+<< ----> stream insertion operator
+**stream**
+syntax highligter
+\n -----> newline 
+std
+     *********************************
+comment
+//-----> for the single line comment
+/* comment */ --  -> for the single multiable comment
+ctr + ? button ----> for comment 
+     *********************************
+# ------->  Preprocessor directives
+
+     *********************************
+how compiler work  
+source code (high level language ) -----compile ----> target code (low level language)(binary)
+source code ----> preprocessing ----> compiler& interpreter ---->assemper ----> linker---->loader
+preprocessing :  بيحدد الاولويات ال هيتعملها كومبايل زي المكتبات
+compiler :(source code ----> analysis (يكتشف -يرتب - يحلل)(front end)-------> inermediate code -------> synthesis(تحسين)(backend) ----> target code )
+assembler : el file elnatg mn el compiler called object file the assembler put this files and put it in a new file called relocatable machine code with .exe path
+linker : translate the relocatable machine code to excuatable file
+loader : loading the code into the memmory and run it 
+     *********************************
+translation unit 
+بتبقا عباره عن  file
+ بيبقا موجود قبل ال  object file 
+     *********************************
+name space 
+ مثل انشاء فولدر جديد حتي تتمكن من انشاء متغييرين لهما نفس الاسم ولكن كل متغير موجود في فضاء مختلف 
+     *********************************
+
+
